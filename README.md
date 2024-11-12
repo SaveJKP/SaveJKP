@@ -8,24 +8,24 @@ Web Developer
 * ✉️  You can contact me at [Jakapat\_Pattnasiri@hotmail.com](mailto:Jakapat_Pattnasiri@hotmail.com)
 
 
-### Tools & Toolkit
+## Tools & Toolkit
 <p align="left">
   </p>
 
-## IDE (Integrated Development Environment)
+### IDE (Integrated Development Environment)
 <p align="left">
   </p>
   
-## version Control System & VCS Hosting
+### version Control System & VCS Hosting
 <p align="left">
   </p>
 
-## Others
+### Others
 <p align="left">
   </p>
 
 
-### Frontend
+## Frontend
 <p align="left">
   </p>
 
@@ -35,15 +35,15 @@ Web Developer
 </p>
 
 
-### Backend
+## Backend
 <p align="left">
   </p>
 
-## Backend Framework
+### Backend Framework
 <p align="left">
   </p>
 
-## Database 
+### Database 
 <p align="left">
   </p>
 
