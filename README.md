@@ -17,7 +17,7 @@ I want to be Web Developer
   
 * ### version Control System & VCS Hosting
 ![image](https://skillicons.dev/icons?i=git)
-<img src="./icons/Github-Dark.svg" width="48">
+
 
 
 * ### Others
