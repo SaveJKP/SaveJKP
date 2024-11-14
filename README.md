@@ -25,7 +25,7 @@ Web Developer
 * ### Others
 ![image](https://skillicons.dev/icons?i=postman)
 ![image](https://skillicons.dev/icons?i=prisma)
-
+![image](https://jwt.io/img/pic_logo.svg)
 ## Frontend
 
 * ### Main Languages
