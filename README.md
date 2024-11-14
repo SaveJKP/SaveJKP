@@ -14,6 +14,7 @@ Web Developer
 
 * ### IDE (Integrated Development Environment)
 ![image](https://skillicons.dev/icons?i=vscode)
+![image](https://miro.medium.com/v2/resize:fit:640/format:webp/0*zWCTHFNFdGAgSw2d)
 
   
 * ### version Control System & VCS Hosting
