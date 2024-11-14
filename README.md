@@ -13,6 +13,8 @@ I want to be Web Developer
 </p>
 
 * ### IDE (Integrated Development Environment)
+![image](https://skillicons.dev/icons?i=cursor)
+![image](https://skillicons.dev/icons?i=vscode)
 
   
 * ### version Control System & VCS Hosting
