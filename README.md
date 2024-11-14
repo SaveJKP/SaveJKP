@@ -13,7 +13,6 @@ I want to be Web Developer
 </p>
 
 * ### IDE (Integrated Development Environment)
-![image](https://skillicons.dev/icons?i=cursor)
 ![image](https://skillicons.dev/icons?i=vscode)
 
   
@@ -55,12 +54,14 @@ I want to be Web Developer
 <p align="left">
 	<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 </p>
+![image](https://skillicons.dev/icons?i=bun)
 
 
 * ### Backend Framework
 <p align="left">  
 	<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
 </p>
+![image](https://skillicons.dev/icons?i=elysia)
 
 * ### Database 
 <p align="left">
