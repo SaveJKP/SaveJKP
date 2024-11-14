@@ -13,11 +13,11 @@ I want to be Web Developer
 </p>
 
 * ### IDE (Integrated Development Environment)
-<p align="left"><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-</p>
+
   
 * ### version Control System & VCS Hosting
 ![image](https://skillicons.dev/icons?i=git)
+<img src="./icons/Github-Dark.svg" width="48">
 
 
 * ### Others
