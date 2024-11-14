@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jakapat Pattanasiri
 ===========================================================================================================================================
-![image](https://github.com/kongruksiamza/programmer-class-room/blob/main/poster-update.png?raw=true)
+
 I want to be Web Developer
 -------------
 
@@ -17,7 +17,7 @@ I want to be Web Developer
 </p>
   
 * ### version Control System & VCS Hosting
-<p align="left">
+<p align="left">![image](https://skillicons.dev/icons?i=git)
 </p>
 
 * ### Others
