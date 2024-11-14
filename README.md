@@ -17,12 +17,13 @@ I want to be Web Developer
   
 * ### version Control System & VCS Hosting
 ![image](https://skillicons.dev/icons?i=git)
+![image](https://skillicons.dev/icons?i=github)
 
 
 
 * ### Others
 ![image](https://skillicons.dev/icons?i=postman)
-
+![image](https://skillicons.dev/icons?i=prisma)
 
 ## Frontend
 
