@@ -25,8 +25,10 @@ Web Developer
 * ### Others
 ![image](https://skillicons.dev/icons?i=postman)
 ![image](https://skillicons.dev/icons?i=prisma)
-![image](https://jwt.io/img/pic_logo.svg)
 <img src="https://jwt.io/img/pic_logo.svg" alt="JWT logo" width="50" height="50">
+<img src="https://prettier.io/icon.png" alt="JWT logo" width="50" height="50">
+<img src="https://axios-http.com/assets/logo.svg" alt="JWT logo" width="50" height="50">
+
 ## Frontend
 
 * ### Main Languages
