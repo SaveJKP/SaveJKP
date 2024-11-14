@@ -5,7 +5,7 @@ I want to be Web Developer
 -------------
 
 * 🌍  I'm based in Hatyai, Thailand
-* ✉️  You can contact me at [Jakapat\_Pattnasiri@hotmail.com](mailto:Jakapat_Pattnasiri@hotmail.com)
+* ✉️  You can contact me at [Jakapat\_Pattanasiri@hotmail.com](mailto:Jakapat_Pattanasiri@hotmail.com)
 
 
 ## Tools & Toolkit
@@ -21,7 +21,7 @@ I want to be Web Developer
 </p>
 
 * ### Others
-<p align="left">![image](https://skillicons.dev/icons?i=postman)
+<p align="left">
 </p>
 
 
