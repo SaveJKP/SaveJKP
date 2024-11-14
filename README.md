@@ -21,8 +21,7 @@ I want to be Web Developer
 
 
 * ### Others
-<p align="left">
-</p>
+![image](https://skillicons.dev/icons?i=postman)
 
 
 ## Frontend
