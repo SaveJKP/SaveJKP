@@ -22,7 +22,7 @@ Web Developer
 ![image](https://skillicons.dev/icons?i=github)
 
 * ### Serverless
-![image](https://github.com/user-attachments/assets/b5e9caca-92c5-4a45-ac7d-6fbca5bc9abf)
+<img src="https://github.com/user-attachments/assets/b5e9caca-92c5-4a45-ac7d-6fbca5bc9abf" alt="JWT logo" width="50" height="50">
 
 * ### Others
 ![image](https://skillicons.dev/icons?i=postman)
