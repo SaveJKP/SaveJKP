@@ -14,7 +14,7 @@ Web Developer
 
 * ### IDE (Integrated Development Environment)
 ![image](https://skillicons.dev/icons?i=vscode)
-<img src="https://miro.medium.com/v2/resize:fit:800/0*zWCTHFNFdGAgSw2d" alt="JWT logo" width="50" height="50">
+<img src="https://miro.medium.com/v2/resize:fit:800/0*zWCTHFNFdGAgSw2d" alt="JWT logo" width="100" height="100">
 
   
 * ### version Control System & VCS Hosting
