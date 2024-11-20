@@ -21,7 +21,8 @@ Web Developer
 ![image](https://skillicons.dev/icons?i=git)
 ![image](https://skillicons.dev/icons?i=github)
 
-
+* ### Serverless
+![image](https://github.com/user-attachments/assets/b5e9caca-92c5-4a45-ac7d-6fbca5bc9abf)
 
 * ### Others
 ![image](https://skillicons.dev/icons?i=postman)
