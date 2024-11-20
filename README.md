@@ -22,7 +22,7 @@ Web Developer
 ![image](https://skillicons.dev/icons?i=github)
 
 * ### Serverless
-<img src="https://github.com/user-attachments/assets/b5e9caca-92c5-4a45-ac7d-6fbca5bc9abf" alt="JWT logo" width="80" height="80">
+<img src="https://community.appsmith.com/sites/default/files/2024-03/neondatabase_logo.jpeg" alt="JWT logo" width="50" height="50">
 
 * ### Others
 ![image](https://skillicons.dev/icons?i=postman)
