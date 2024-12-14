@@ -13,12 +13,11 @@ Web Developer
 </p>
 
 * ### IDE (Integrated Development Environment)
-|Course| หัวข้อ | ดาวน์โหลด |
+|Logo| Name | skill |
 |:----:|:------------------------:|:----:|
-|![image](https://skillicons.dev/icons?i=java)|   เขียนโปรแกรมภาษา Java        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-|![image](https://skillicons.dev/icons?i=cs)|   เขียนโปรแกรมภาษา C#       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-![image](https://skillicons.dev/icons?i=vscode)
-<img src="https://miro.medium.com/v2/resize:fit:800/0*zWCTHFNFdGAgSw2d" alt="JWT logo" width="50" height="50" style="border-radius: 15px;">
+|![image](https://skillicons.dev/icons?i=vscode)|   VsCode        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|<img src="https://miro.medium.com/v2/resize:fit:800/0*zWCTHFNFdGAgSw2d" alt="JWT logo" width="50" height="50" style="border-radius: 15px;">|   cursor      |การทำงานเหมือน VsCode |
+
 
   
 * ### version Control System & VCS Hosting
