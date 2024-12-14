@@ -14,10 +14,9 @@ Web Developer
 
 * ### IDE (Integrated Development Environment)
 | Logo | Name   | Skill |
-|:----:|:------:|:------:|
-| ![image](https://skillicons.dev/icons?i=vscode) | VsCode | 1. การตั้งค่าพื้นฐาน<br>- ติดตั้ง Extensions<br>- ปรับ Settings<br>2. การจัดการไฟล์และโฟลเดอร์<br>- เปิดไฟล์/โฟลเดอร์ |
-
-|<img src="https://miro.medium.com/v2/resize:fit:800/0*zWCTHFNFdGAgSw2d" alt="JWT logo" width="50" height="50" style="border-radius: 15px;">|   cursor      |การทำงานเหมือน VsCode |
+|:----:|:------:|:------|
+| ![image](https://skillicons.dev/icons?i=vscode) | VsCode | 1. การตั้งค่าพื้นฐาน<br>- ติดตั้ง Extensions<br>- ปรับ Settings<br>2. การจัดการไฟล์และโฟลเดอร์<br>- เปิดไฟล์/โฟลเดอร<br>- เปิดไฟล์ล่าสุด<br> 3.คีย์ลัดสำคัญต่างๆ<br>4. ค้นหาและแทนที่<br>5. การใช้ Terminal |
+|<img src="https://miro.medium.com/v2/resize:fit:800/0*zWCTHFNFdGAgSw2d" alt="JWT logo" width="50" height="50" style="border-radius: 15px;">|   cursor      | การทำงานเหมือน VsCode |
 
 
   
