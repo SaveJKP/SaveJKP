@@ -36,8 +36,8 @@ Web Developer
 * ### Others
 | Logo | Name   | Skill |
 |:----:|:------:|:------|
-|![image](https://skillicons.dev/icons?i=postman)      |        |       |
-|<img src="https://jwt.io/img/pic_logo.svg" alt="JWT logo" width="50" height="50">|Postman        |ทดสอบ API         |
+|![image](https://skillicons.dev/icons?i=postman)      |   Postman       |  ทดสอบ API     |
+|<img src="https://jwt.io/img/pic_logo.svg" alt="JWT logo" width="50" height="50">| JWT      |         |
 
 
 
