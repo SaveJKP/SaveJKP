@@ -111,26 +111,26 @@ Web Developer
 
 ## Project
 * ### โปรเจค POS ร้านอาหาร
-สิ่งที่ใช้ใน project 
-Module 2 JavaScript 
-Module 3 HTML, CSS
-Module 18 NEXT.js
-Module 4 TailwindCSS Framework
-Module 5 Node.js 
-Module 6 ExpressJS Framework
-Module 7 JWT Authentication
-Module 8 Authorization and Middleware
-Module 9 Router and Controller
-Module 10 File Management
-Module 11 Introduction to MongoDB and NoSQL
-Module 12 Prisma ORM 
-Module 13 Database Programming
-Module 14 Relational of Models
-Module 15 Migration and Generation 
-Module 16 Introduction to Frontend 
-Module 19 Routing and Event
-Module 20 Http Programming
-Module 21 การ Deployment to Ubuntu Linux Server on PM2 
+สิ่งที่ใช้ใน project<br> 
+Module 1 JavaScript<br> 
+Module 2 HTML, CSS<br>
+Module 3 NEXT.js<br>
+Module 4 TailwindCSS Framework<br>
+Module 5 Node.js <br>
+Module 6 ExpressJS Framework<br>
+Module 7 JWT Authentication<br>
+Module 8 Authorization and Middleware<br>
+Module 9 Router and Controller<br>
+Module 10 File Management<br>
+Module 11 Introduction to MongoDB and NoSQL<br>
+Module 12 Prisma ORM <br>
+Module 13 Database Programming<br>
+Module 14 Relational of Models<br>
+Module 15 Migration and Generation <br>
+Module 16 Introduction to Frontend <br>
+Module 17 Routing and Event<br>
+Module 18 Http Programming<br>
+Module 19 การ Deployment to Ubuntu Linux Server on PM2 <br>
 
 ## Socials
 
