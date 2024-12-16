@@ -15,29 +15,29 @@ Web Developer
 * ### IDE (Integrated Development Environment)
 | Logo | Name   | Skill |
 |:----:|:------:|:------|
-| ![image](https://skillicons.dev/icons?i=vscode) | VsCode | 1. การตั้งค่าพื้นฐาน<br>- ติดตั้ง Extensions<br>- ปรับ Settings<br>2. การจัดการไฟล์และโฟลเดอร์<br>- เปิดไฟล์/โฟลเดอร<br>- เปิดไฟล์ล่าสุด<br> 3.คีย์ลัดสำคัญต่างๆ<br>4. ค้นหาและแทนที่<br>5. การใช้ Terminal |
-|<img src="https://miro.medium.com/v2/resize:fit:800/0*zWCTHFNFdGAgSw2d" alt="JWT logo" width="50" height="50" style="border-radius: 15px;">|   cursor      | การทำงานเหมือน VsCode แต่จะมี Ai ช่วยเขียนโค้ดให้ ทำให้สามารถทำงานได้ไวขึ้น แต่ถ้าลง extenion AI ใน vsCode ก็ไม่จำเป็นต้องใช้ |
+| ![image](https://skillicons.dev/icons?i=vscode) | VsCode | 1. การตั้งค่าพื้นฐาน<br>- ติดตั้ง Extensions<br>- ปรับ Settings<br>2. การจัดการไฟล์และโฟลเดอร์<br>- เปิดไฟล์/โฟลเดอร<br>- เปิดไฟล์ล่าสุด<br> 3.คีย์ลัดสำคัญต่างๆ<br>4. ค้นหาและแทนที่<br>5. การใช้ Terminal<br>6.การใช้ snippet/emmet |
+|<img src="https://miro.medium.com/v2/resize:fit:800/0*zWCTHFNFdGAgSw2d" alt="JWT logo" width="50" height="50" style="border-radius: 15px;">|   Cursor      | การทำงานเหมือน VsCode แต่จะมี Ai ช่วยเขียนโค้ดให้ ทำให้สามารถทำงานได้ไวขึ้น |
 
 
   
 * ### version Control System & VCS Hosting
 | Logo | Name   | Skill |
 |:----:|:------:|:------|
-|![image](https://skillicons.dev/icons?i=github)      |  Github      | 1. รู้วิธีการสร้าง Repository แล้วใช้คำสั่งพื้นฐาน ผ่าน Terminal ใน VsCode เพื่อสั่ง push ไฟล์ต่างๆเข้ามาใน Repository     |
+|![image](https://skillicons.dev/icons?i=github)      |  Github      | 1. รู้วิธีการสร้าง Repository แล้วใช้คำสั่งพื้นฐาน ผ่าน Terminal ใน VsCode เพื่อสั่ง push ไฟล์ต่างๆเข้ามาใน Repository<br>2.!!!!!     |
 
 
 
-* ### Serverless
+* ### Serverless Database
 | Logo | Name   | Skill |
 |:----:|:------:|:------|
-|<img src="https://community.appsmith.com/sites/default/files/2024-03/neondatabase_logo.jpeg"  width="50" height="50" style="border-radius:50%">|        |       |
+|<img src="https://community.appsmith.com/sites/default/files/2024-03/neondatabase_logo.jpeg"  width="50" height="50" style="border-radius:50%">| NeonDb |เป็นการจัดการฐานข้อมูลที่อยู่บน Cloud |
 
 
 * ### Others
 | Logo | Name   | Skill |
 |:----:|:------:|:------|
 |![image](https://skillicons.dev/icons?i=postman)      |        |       |
-|<img src="https://jwt.io/img/pic_logo.svg" alt="JWT logo" width="50" height="50">      |        |       |
+|<img src="https://jwt.io/img/pic_logo.svg" alt="JWT logo" width="50" height="50">|Postman        |ทดสอบ API         |
 
 
 
@@ -47,10 +47,10 @@ Web Developer
 * ### Main Languages
 | Logo | Name   | Skill |
 |:----:|:------:|:------|
-|![image](https://skillicons.dev/icons?i=html)      |        |       |
-|![image](https://skillicons.dev/icons?i=css)      |        |       |
-|![image](https://skillicons.dev/icons?i=js)      |        |       |
-|![image](https://skillicons.dev/icons?i=ts)      |        |       |
+|![image](https://skillicons.dev/icons?i=html)      |Html        |       |
+|![image](https://skillicons.dev/icons?i=css)      |CSS        |       |
+|![image](https://skillicons.dev/icons?i=js)      |Javascript       |       |
+|![image](https://skillicons.dev/icons?i=ts)      |Typescript        |       |
 
 
 
@@ -59,10 +59,10 @@ Web Developer
 * ### Frontend Framework
 | Logo | Name   | Skill |
 |:----:|:------:|:------|
-|![image](https://skillicons.dev/icons?i=tailwind)      |        |       |
-|![image](https://skillicons.dev/icons?i=react)      |        |       |
-|![image](https://skillicons.dev/icons?i=nextjs)      |        |       |
-|![image](https://skillicons.dev/icons?i=bootstrap)      |        |       |
+|![image](https://skillicons.dev/icons?i=tailwind)      | Tailwind       |       |
+|![image](https://skillicons.dev/icons?i=react)      |  React      |       |
+|![image](https://skillicons.dev/icons?i=nextjs)      | NextJs       |       |
+
 
 
 
@@ -73,16 +73,16 @@ Web Developer
 * ### Main Languages
 | Logo | Name   | Skill |
 |:----:|:------:|:------|
-|![image](https://skillicons.dev/icons?i=js)      |        |       |
-|![image](https://skillicons.dev/icons?i=ts)      |        |       |
+|![image](https://skillicons.dev/icons?i=js)      | Javascript       |       |
+|![image](https://skillicons.dev/icons?i=ts)      |  Typescript      |       |
 
 
 
 * ### Runtime Environment
 | Logo | Name   | Skill |
 |:----:|:------:|:------|
-|![image](https://skillicons.dev/icons?i=bun)      |        |       |
-|![image](https://skillicons.dev/icons?i=nodejs)      |        |       |
+|![image](https://skillicons.dev/icons?i=bun)      |  Bun      |       |
+|![image](https://skillicons.dev/icons?i=nodejs)      |NodeJs       |       |
 
 
 
@@ -91,8 +91,8 @@ Web Developer
 * ### Backend Framework
 | Logo | Name   | Skill |
 |:----:|:------:|:------|
-|![image](https://skillicons.dev/icons?i=elysia)      |        |       |
-|![image](https://skillicons.dev/icons?i=express)      |        |       |
+|![image](https://skillicons.dev/icons?i=elysia)      |Elysia        |       |
+|![image](https://skillicons.dev/icons?i=express)      |   Express     |       |
 
 
 
@@ -100,14 +100,14 @@ Web Developer
 * ### Database 
 | Logo | Name   | Skill |
 |:----:|:------:|:------|
-|![image](https://skillicons.dev/icons?i=mongodb)      |        |       |
+|![image](https://skillicons.dev/icons?i=mongodb)      |MongoDb        |       |
 
 
 
 * ### ORM (Object-Relational Mapping)
 | Logo | Name   | Skill |
 |:----:|:------:|:------|
-|![image](https://skillicons.dev/icons?i=prisma)      |        |       |
+|![image](https://skillicons.dev/icons?i=prisma)      | Prisma       |       |
 
 
 ## Socials
