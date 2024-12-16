@@ -109,6 +109,28 @@ Web Developer
 |:----:|:------:|:------|
 |![image](https://skillicons.dev/icons?i=prisma)      | Prisma       |       |
 
+## Project
+* ### โปรเจค POS ร้านอาหาร
+สิ่งที่ใช้ใน project 
+Module 2 JavaScript 
+Module 3 HTML, CSS
+Module 18 NEXT.js
+Module 4 TailwindCSS Framework
+Module 5 Node.js 
+Module 6 ExpressJS Framework
+Module 7 JWT Authentication
+Module 8 Authorization and Middleware
+Module 9 Router and Controller
+Module 10 File Management
+Module 11 Introduction to MongoDB and NoSQL
+Module 12 Prisma ORM 
+Module 13 Database Programming
+Module 14 Relational of Models
+Module 15 Migration and Generation 
+Module 16 Introduction to Frontend 
+Module 19 Routing and Event
+Module 20 Http Programming
+Module 21 การ Deployment to Ubuntu Linux Server on PM2 
 
 ## Socials
 
