@@ -47,7 +47,7 @@ Web Developer
 * ### Main Languages
 | Logo | Name   | Skill |
 |:----:|:------:|:------|
-|![image](https://skillicons.dev/icons?i=html)      |Html        |เข้าใจ Syntax พื้นฐาน ได้แก่ - h1-h6<br>-div และspan<br>-Form<br>-a<br>-ul, ui<br>-table<br>-img     |
+|![image](https://skillicons.dev/icons?i=html)      |Html        |เข้าใจ Syntax พื้นฐาน ได้แก่ <br>- h1-h6<br>- div และspan<br>- <br>- a<br>- ul, ui<br>- table<br>- img<br>- button<br>- input<br>- select     |
 |![image](https://skillicons.dev/icons?i=css)      |CSS        |       |
 |![image](https://skillicons.dev/icons?i=js)      |Javascript       |       |
 |![image](https://skillicons.dev/icons?i=ts)      |Typescript        |       |
