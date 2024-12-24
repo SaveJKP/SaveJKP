@@ -47,10 +47,11 @@ Web Developer
 * ### Main Languages
 | Logo | Name   | Skill |
 |:----:|:------:|:------|
-|![image](https://skillicons.dev/icons?i=html)      |Html        |เข้าใจ Syntax พื้นฐาน ได้แก่ <br>- h1-h6<br>- div และspan<br>- <br>- a<br>- ul, ui<br>- table<br>- img<br>- button<br>- input<br>- select     |
-|![image](https://skillicons.dev/icons?i=css)      |CSS        |       |
-|![image](https://skillicons.dev/icons?i=js)      |Javascript       |       |
-|![image](https://skillicons.dev/icons?i=ts)      |Typescript        |       |
+|![image](https://skillicons.dev/icons?i=html)      |Html        |เข้าใจ Syntax พื้นฐาน ได้แก่ <br>- h1-h6<br>- div และ span<br>- a<br>- ul, li<br>- table<br>- img<br>- button<br>- input<br>- select     |
+|![image](https://skillicons.dev/icons?i=css)      |CSS        |เข้าใจพื้นฐาน ได้แก่ <br>- การจัดการ Selectors (เช่น class, id)<br>- Box Model<br>- Flexbox และ Grid<br>- การใช้ Media Queries สำหรับ Responsive Design<br>- การปรับแต่งสี, ขนาด, และฟอนต์ |
+|![image](https://skillicons.dev/icons?i=js)      |Javascript       |เข้าใจ Syntax พื้นฐาน ได้แก่ <br>- DataType<br>- Operator<br>- if-else<br>- Loop<br>- Function       |
+|![image](https://skillicons.dev/icons?i=ts)      |Typescript        |เขียนเหมือน JS แต่เพิ่มการตรวจสอบ Type ของตัวแปร เช่น<br>- การใช้ Interface<br>- การกำหนด Type ใน Function<br>- การจัดการ Generic Type |
+
 
 
 
@@ -59,9 +60,10 @@ Web Developer
 * ### Frontend Framework
 | Logo | Name   | Skill |
 |:----:|:------:|:------|
-|![image](https://skillicons.dev/icons?i=tailwind)      | Tailwind       |       |
-|![image](https://skillicons.dev/icons?i=react)      |  React      |       |
-|![image](https://skillicons.dev/icons?i=nextjs)      | NextJs       |       |
+|![image](https://skillicons.dev/icons?i=tailwind)      | Tailwind       | - สร้างและออกแบบ UI อย่างรวดเร็ว<br>- ใช้ Utility-first CSS<br>- ปรับแต่ง Theme และ Plugins |
+|![image](https://skillicons.dev/icons?i=react)      |  React      | - พัฒนา UI ด้วย Component-based<br>- ใช้ State และ Props จัดการข้อมูล<br>- ทำงานร่วมกับ React Hooks เช่น `useState` และ `useEffect` |
+|![image](https://skillicons.dev/icons?i=nextjs)      | NextJs       | - สร้าง Web App ด้วย Server-side Rendering (SSR)<br>- ทำงานกับ Static Site Generation (SSG)<br>- จัดการ Routing แบบ Dynamic และ API Routes |
+
 
 
 
@@ -71,29 +73,26 @@ Web Developer
 ## Backend
 
 * ### Main Languages
-| Logo | Name   | Skill |
-|:----:|:------:|:------|
-|![image](https://skillicons.dev/icons?i=js)      | Javascript       |       |
-|![image](https://skillicons.dev/icons?i=ts)      |  Typescript      |       |
+| Logo | Name   | 
+|:----:|:------:|
+|![image](https://skillicons.dev/icons?i=js)      | Javascript       |   
+|![image](https://skillicons.dev/icons?i=ts)      |  Typescript      |     
 
 
 
 * ### Runtime Environment
 | Logo | Name   | Skill |
 |:----:|:------:|:------|
-|![image](https://skillicons.dev/icons?i=nodejs)      |NodeJs       |       |
-|![image](https://skillicons.dev/icons?i=bun)      |  Bun      |การทำงานเหมือน NodeJs แต่ภาษาการ       |
-
-
-
-
+|![image](https://skillicons.dev/icons?i=nodejs)      |NodeJs       |เข้าใจพื้นฐาน ได้แก่ <br>- การสร้าง Web Server ด้วย `http` หรือ Framework เช่น Express.js<br>- การจัดการไฟล์ด้วย `fs` (File System)<br>- การใช้งาน Event Loop และ Non-blocking I/O<br>- การจัดการ Dependency ด้วย npm |
+|![image](https://skillicons.dev/icons?i=bun)      |  Bun      |ทำงานคล้าย Node.js แต่มีคุณสมบัติเด่น เช่น <br>- Runtime ที่รวดเร็วกว่า Node.js<br>- Built-in Bundler และ Task Runner<br>- การจัดการ Dependency โดยไม่ต้องใช้ npm |
 
 
 * ### Backend Framework
 | Logo | Name   | Skill |
 |:----:|:------:|:------|
-|![image](https://skillicons.dev/icons?i=elysia)      |Elysia        |       |
-|![image](https://skillicons.dev/icons?i=express)      |   Express     |       |
+|![image](https://skillicons.dev/icons?i=elysia)      |Elysia        |เข้าใจพื้นฐาน ได้แก่ <br>- การสร้าง REST API แบบรวดเร็ว<br>- การใช้ Middleware เพื่อจัดการ Request และ Response<br>- การกำหนด Routing และการตอบกลับแบบ JSON<br>- การเชื่อมต่อกับฐานข้อมูลหรือบริการภายนอก |
+|![image](https://skillicons.dev/icons?i=express)      |   Express     |เข้าใจพื้นฐาน ได้แก่ <br>- การสร้าง Web Server ด้วย Express<br>- การใช้ Middleware เช่น `body-parser`, `cors`<br>- การจัดการ Routing (GET, POST, PUT, DELETE)<br>- การทำงานร่วมกับ Template Engine เช่น EJS หรือ Handlebars |
+
 
 
 
@@ -101,14 +100,16 @@ Web Developer
 * ### Database 
 | Logo | Name   | Skill |
 |:----:|:------:|:------|
-|![image](https://skillicons.dev/icons?i=mongodb)      |MongoDb        |       |
+|![image](https://skillicons.dev/icons?i=mongodb)      |MongoDB        |เข้าใจพื้นฐาน ได้แก่ <br>- การสร้างและจัดการฐานข้อมูลแบบ NoSQL<br>- การใช้งานคำสั่งพื้นฐาน เช่น `find`, `insert`, `update`, `delete`<br>- การออกแบบ Schema แบบ Dynamic<br>- การเชื่อมต่อ MongoDB กับ Node.js ผ่าน Mongoose หรือ Native Driver |
+
 
 
 
 * ### ORM (Object-Relational Mapping)
 | Logo | Name   | Skill |
 |:----:|:------:|:------|
-|![image](https://skillicons.dev/icons?i=prisma)      | Prisma       |       |
+|![image](https://skillicons.dev/icons?i=prisma)      | Prisma       |เข้าใจพื้นฐาน ได้แก่ <br>- การใช้ Prisma เป็น ORM เชื่อมต่อกับฐานข้อมูล<br>- การกำหนด Schema ด้วย `prisma.schema` และการทำ Migration<br>- การเขียน Query เช่น `findMany`, `create`, `update`, `delete`<br>- การเชื่อมต่อกับฐานข้อมูลหลายประเภท เช่น PostgreSQL, MySQL, MongoDB |
+
 
 ## Project
 * ### โปรเจค POS ร้านอาหาร
