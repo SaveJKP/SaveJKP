@@ -52,8 +52,7 @@ Web Developer
 |:----:|:------:|:------|
 |![image](https://skillicons.dev/icons?i=html)      |Html        |เข้าใจ Syntax พื้นฐาน ได้แก่ <br>- h1-h6<br>- div และ span<br>- a<br>- ul, li<br>- table<br>- img<br>- button<br>- input<br>- select     |
 |![image](https://skillicons.dev/icons?i=css)      |CSS        |เข้าใจพื้นฐาน ได้แก่ <br>- การจัดการ Selectors (เช่น class, id)<br>- Box Model<br>- Flexbox และ Grid<br>- การใช้ Media Queries สำหรับ Responsive Design<br>- การปรับแต่งสี, ขนาด, และฟอนต์ |
-| Logo | Name   | Skill |
-|:----:|:------:|:------|
+
 |![image](https://skillicons.dev/icons?i=js)      |Javascript       |เข้าใจพื้นฐาน ได้แก่ <br>- DataType (String, Number, Boolean, Array, Object)<br>- Operator (Arithmetic, Comparison, Logical)<br>- if-else และ Ternary Operator<br>- Loop (for, while, do-while)<br>- Function (Declaration, Expression, Arrow Function)<br>- Scope (var, let, const) และ Hoisting<br>- Event Handling (Click, Input, Form Events)<br>- DOM Manipulation (`getElementById`, `querySelector`)<br>- JSON การทำงานกับข้อมูลแบบ Object และ Array |
 
 |![image](https://skillicons.dev/icons?i=ts)      |Typescript        |เขียนเหมือน JS แต่เพิ่มการตรวจสอบ Type ของตัวแปร เช่น<br>- การใช้ Interface<br>- การกำหนด Type ใน Function<br>- การจัดการ Generic Type |
@@ -117,6 +116,8 @@ Web Developer
 |:----:|:------:|:------|
 |![image](https://skillicons.dev/icons?i=prisma)      | Prisma       |เข้าใจพื้นฐาน ได้แก่ <br>- การใช้ Prisma เป็น ORM เชื่อมต่อกับฐานข้อมูล<br>- การกำหนด Schema ด้วย `prisma.schema` และการทำ Migration<br>- การเขียน Query เช่น `findMany`, `create`, `update`, `delete`<br>- การเชื่อมต่อกับฐานข้อมูลหลายประเภท เช่น PostgreSQL,SQL, MongoDB |
 
+## Other Skill
+ ER Diagram (Entity-Relationship Diagram) เข้าใจการออกแบบฐานข้อมูลโดยใช้ ER Diagram ได้แก่ <br>- การสร้าง Entity และกำหนดความสัมพันธ์ระหว่างตาราง (1:1, 1:M, M:M)<br>- การระบุ Attribute ของแต่ละ Entity<br>- การใช้ Primary Key และ Foreign Key ในการเชื่อมโยงข้อมูล<br>- การแปลง ER Diagram เป็น Schema สำหรับฐานข้อมูล
 
 ## Project
 * ### โปรเจค POS ร้านอาหาร
