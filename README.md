@@ -93,7 +93,7 @@ Web Developer
 * ### Backend Framework
 | Logo | Name   | Skill |
 |:----:|:------:|:------|
-|![image](https://skillicons.dev/icons?i=elysia)      |Elysia        |เข้าใจพื้นฐาน ได้แก่ <br>- การสร้าง REST API แบบรวดเร็ว<br>- การใช้ Middleware เพื่อจัดการ Request และ Response<br>- การกำหนด Routing และการตอบกลับแบบ JSON<br>- การเชื่อมต่อกับฐานข้อมูลหรือบริการภายนอก |
+|![image](https://skillicons.dev/icons?i=elysia)      |Elysia        |เข้าใจพื้นฐาน ได้แก่ <br>- การใช้ Middleware เพื่อจัดการ Request และ Response<br>- การกำหนด Routing และการตอบกลับแบบ JSON |
 |![image](https://skillicons.dev/icons?i=express)      |   Express     |เข้าใจพื้นฐาน ได้แก่ <br>- การสร้าง Web Server ด้วย Express<br>- การใช้ Middleware เช่น `body-parser`, `cors`<br>- การจัดการ Routing (GET, POST, PUT, DELETE)|
 
 
