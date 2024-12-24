@@ -23,7 +23,8 @@ Web Developer
 * ### version Control System & VCS Hosting
 | Logo | Name   | Skill |
 |:----:|:------:|:------|
-|![image](https://skillicons.dev/icons?i=github)      |  Github      | 1. รู้วิธีการสร้าง Repository แล้วใช้คำสั่งพื้นฐาน ผ่าน Terminal ใน VsCode เพื่อสั่ง push ไฟล์ต่างๆเข้ามาใน Repository<br>2.!!!!!     |
+|![image](https://skillicons.dev/icons?i=github)      |  GitHub      | 1. รู้วิธีการสร้าง Repository และใช้คำสั่งพื้นฐาน เช่น `git init`, `git add`, `git commit`, `git push` ผ่าน Terminal ใน VSCode<br>2. ใช้ Branch จัดการ Feature ต่าง ๆ โดยใช้คำสั่ง `git branch` และ `git merge`<br>3. จัดการกับ Merge Conflict และทำ Pull Request เพื่อทำงานร่วมกับทีม |
+
 
 
 
@@ -37,7 +38,9 @@ Web Developer
 | Logo | Name   | Skill |
 |:----:|:------:|:------|
 |![image](https://skillicons.dev/icons?i=postman)      |   Postman       |  ทดสอบ API     |
-|<img src="https://jwt.io/img/pic_logo.svg" alt="JWT logo" width="50" height="50">| JWT      |พัฒนา RESTful API โดยใช้ Node.js และExpress.js ร่วมกับ JWT สำหรับยืนยันตัวตน และจัดการ Middleware         |
+|<img src="https://jwt.io/img/pic_logo.svg" alt="JWT logo" width="50" height="50">| JWT      |พัฒนา RESTful API โดยใช้ Node.js และ Express.js ร่วมกับ JWT สำหรับยืนยันตัวตน และจัดการ Middleware         |
+|![image](https://skillicons.dev/icons?i=figma)      | Figma        |ออกแบบ UI/UX, Prototype, และสร้าง Wireframe<br>- ใช้งาน Tools เช่น Auto Layout และ Components |
+
 
 
 
@@ -49,7 +52,10 @@ Web Developer
 |:----:|:------:|:------|
 |![image](https://skillicons.dev/icons?i=html)      |Html        |เข้าใจ Syntax พื้นฐาน ได้แก่ <br>- h1-h6<br>- div และ span<br>- a<br>- ul, li<br>- table<br>- img<br>- button<br>- input<br>- select     |
 |![image](https://skillicons.dev/icons?i=css)      |CSS        |เข้าใจพื้นฐาน ได้แก่ <br>- การจัดการ Selectors (เช่น class, id)<br>- Box Model<br>- Flexbox และ Grid<br>- การใช้ Media Queries สำหรับ Responsive Design<br>- การปรับแต่งสี, ขนาด, และฟอนต์ |
-|![image](https://skillicons.dev/icons?i=js)      |Javascript       |เข้าใจ Syntax พื้นฐาน ได้แก่ <br>- DataType<br>- Operator<br>- if-else<br>- Loop<br>- Function       |
+| Logo | Name   | Skill |
+|:----:|:------:|:------|
+|![image](https://skillicons.dev/icons?i=js)      |Javascript       |เข้าใจพื้นฐาน ได้แก่ <br>- DataType (String, Number, Boolean, Array, Object)<br>- Operator (Arithmetic, Comparison, Logical)<br>- if-else และ Ternary Operator<br>- Loop (for, while, do-while)<br>- Function (Declaration, Expression, Arrow Function)<br>- Scope (var, let, const) และ Hoisting<br>- Event Handling (Click, Input, Form Events)<br>- DOM Manipulation (`getElementById`, `querySelector`)<br>- JSON การทำงานกับข้อมูลแบบ Object และ Array |
+
 |![image](https://skillicons.dev/icons?i=ts)      |Typescript        |เขียนเหมือน JS แต่เพิ่มการตรวจสอบ Type ของตัวแปร เช่น<br>- การใช้ Interface<br>- การกำหนด Type ใน Function<br>- การจัดการ Generic Type |
 
 
@@ -100,7 +106,8 @@ Web Developer
 * ### Database 
 | Logo | Name   | Skill |
 |:----:|:------:|:------|
-|![image](https://skillicons.dev/icons?i=mongodb)      |MongoDB        |เข้าใจพื้นฐาน ได้แก่ <br>- การสร้างและจัดการฐานข้อมูลแบบ NoSQL<br>- การใช้งานคำสั่งพื้นฐาน เช่น `find`, `insert`, `update`, `delete`<br>- การออกแบบ Schema แบบ Dynamic<br>- การเชื่อมต่อ MongoDB กับ Node.js ผ่าน Mongoose หรือ Native Driver |
+|![image](https://skillicons.dev/icons?i=mongodb)      |MongoDB        |เข้าใจพื้นฐาน ได้แก่ <br>- การสร้างและจัดการฐานข้อมูลแบบ NoSQL<br>- การใช้งานคำสั่งพื้นฐาน เช่น `find`, `insert`, `update`, `delete`<br>- การเชื่อมต่อ MongoDB กับ Node.js ผ่าน Prisma |
+|![image](https://skillicons.dev/icons?i=postgres)      |PostgreSQL     |เข้าใจพื้นฐาน ได้แก่ <br>- การออกแบบและจัดการฐานข้อมูลแบบ Relational<br>- การเขียน SQL Query เช่น `SELECT`, `INSERT`, `UPDATE`, `DELETE`<br>- การสร้าง Table และการกำหนดความสัมพันธ์ (Relationship)<br>- การใช้ Index เพื่อเพิ่มประสิทธิภาพการค้นหา<br>- การเชื่อมต่อ PostgreSQL กับ Node.js ผ่าน Prisma  |
 
 
 
@@ -108,7 +115,7 @@ Web Developer
 * ### ORM (Object-Relational Mapping)
 | Logo | Name   | Skill |
 |:----:|:------:|:------|
-|![image](https://skillicons.dev/icons?i=prisma)      | Prisma       |เข้าใจพื้นฐาน ได้แก่ <br>- การใช้ Prisma เป็น ORM เชื่อมต่อกับฐานข้อมูล<br>- การกำหนด Schema ด้วย `prisma.schema` และการทำ Migration<br>- การเขียน Query เช่น `findMany`, `create`, `update`, `delete`<br>- การเชื่อมต่อกับฐานข้อมูลหลายประเภท เช่น PostgreSQL, MySQL, MongoDB |
+|![image](https://skillicons.dev/icons?i=prisma)      | Prisma       |เข้าใจพื้นฐาน ได้แก่ <br>- การใช้ Prisma เป็น ORM เชื่อมต่อกับฐานข้อมูล<br>- การกำหนด Schema ด้วย `prisma.schema` และการทำ Migration<br>- การเขียน Query เช่น `findMany`, `create`, `update`, `delete`<br>- การเชื่อมต่อกับฐานข้อมูลหลายประเภท เช่น PostgreSQL,SQL, MongoDB |
 
 
 ## Project
