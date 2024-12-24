@@ -115,7 +115,8 @@ Web Developer
 |![image](https://skillicons.dev/icons?i=prisma)      | Prisma       |เข้าใจพื้นฐาน ได้แก่ <br>- การใช้ Prisma เป็น ORM เชื่อมต่อกับฐานข้อมูล<br>- การกำหนด Schema ด้วย `prisma.schema` และการทำ Migration<br>- การเขียน Query เช่น `findMany`, `create`, `update`, `delete`<br>- การเชื่อมต่อกับฐานข้อมูลหลายประเภท เช่น PostgreSQL,SQL, MongoDB |
 
 ## Other Skill
- ER Diagram (Entity-Relationship Diagram) เข้าใจการออกแบบฐานข้อมูลโดยใช้ ER Diagram ได้แก่ <br>- การสร้าง Entity และกำหนดความสัมพันธ์ระหว่างตาราง (1:1, 1:M, M:M)<br>- การระบุ Attribute ของแต่ละ Entity<br>- การใช้ Primary Key และ Foreign Key ในการเชื่อมโยงข้อมูล<br>- การแปลง ER Diagram เป็น Schema สำหรับฐานข้อมูล
+* ### ER Diagram (Entity-Relationship Diagram)
+ เข้าใจการออกแบบฐานข้อมูลโดยใช้ ER Diagram ได้แก่ <br>- การสร้าง Entity และกำหนดความสัมพันธ์ระหว่างตาราง (1:1, 1:M, M:M)<br>- การระบุ Attribute ของแต่ละ Entity<br>- การใช้ Primary Key และ Foreign Key ในการเชื่อมโยงข้อมูล<br>- การแปลง ER Diagram เป็น Schema สำหรับฐานข้อมูล
 
 ## Project
 * ### โปรเจค POS ร้านอาหาร
