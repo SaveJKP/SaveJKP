@@ -50,8 +50,7 @@ Web Developer
 * ### Main Languages
 | Logo | Name   | Skill |
 |:----:|:------:|:------|
-
-|![image](https://skillicons.dev/icons?i=html)      |Html        |เข้าใจ Syntax พื้นฐาน ได้แก่ <br>- h1-h6<br>- div และ span<br>- a<br>- ul, li<br>- table<br>- img<br>- button<br>- input<br>- select<br>- form และการใช้ method GET, POST<br>- การใช้ attribute เช่น `class`, `id`, `href`<br>- การใช้งาน HTML semantic tags เช่น `header`, `footer`, `article`, `section` |
+|![image](https://skillicons.dev/icons?i=html)      |Html        |เข้าใจ Syntax พื้นฐาน ได้แก่ <br>- h1-h6<br>- div และ span<br>- a<br>- ul, li<br>- table<br>- img<br>- button<br>- input<br>- select<br>- form<br>- การใช้งาน HTML semantic tags เช่น `header`, `footer`, `article`, `section` |
 |![image](https://skillicons.dev/icons?i=css)      |CSS        |เข้าใจพื้นฐาน ได้แก่ <br>- การจัดการ Selectors (เช่น class, id)<br>- Box Model<br>- Flexbox และ Grid<br>- การปรับแต่งสี, ขนาด, และฟอนต์ |
 |![image](https://skillicons.dev/icons?i=js)      |Javascript       |เข้าใจพื้นฐาน ได้แก่ <br>- DataType (String, Number, Boolean, Array, Object)<br>- Operator (Arithmetic, Comparison, Logical)<br>- if-else และ Ternary Operator<br>- Loop (for, while, do-while)<br>- Function (Declaration, Expression, Arrow Function)<br>- Scope (var, let, const) และ Hoisting<br>- Event Handling (Click, Input, Form Events)<br>- DOM Manipulation (`getElementById`, `querySelector`)<br>- JSON การทำงานกับข้อมูลแบบ Object และ Array |
 |![image](https://skillicons.dev/icons?i=ts)      |Typescript        |เขียนเหมือน JS แต่เพิ่มการตรวจสอบ Type ของตัวแปร เช่น<br>- การใช้ Interface<br>- การกำหนด Type ใน Function<br>- การจัดการ Generic Type |
@@ -64,7 +63,7 @@ Web Developer
 * ### Frontend Framework
 | Logo | Name   | Skill |
 |:----:|:------:|:------|
-|![image](https://skillicons.dev/icons?i=tailwind)      | Tailwind       | - สร้างและออกแบบ UI อย่างรวดเร็ว<br>- ใช้ Utility-first CSS<br>- ปรับแต่ง Theme และ Plugins |
+|![image](https://skillicons.dev/icons?i=tailwind)      | Tailwind       | - สร้างและออกแบบ UI อย่างรวดเร็ว<br>- ใช้ Utility-first CSS<br>- ปรับแต่ง Theme และ Plugins<br>- Responsive Design |
 |![image](https://skillicons.dev/icons?i=react)      |  React      | - พัฒนา UI ด้วย Component-based<br>- ใช้ State และ Props จัดการข้อมูล<br>- ทำงานร่วมกับ React Hooks เช่น `useState` และ `useEffect` |
 |![image](https://skillicons.dev/icons?i=nextjs)      | NextJs       | - สร้าง Web App ด้วย Server-side Rendering (SSR)<br>- ทำงานกับ Static Site Generation (SSG)<br>- จัดการ Routing แบบ Dynamic และ API Routes |
 
@@ -95,7 +94,7 @@ Web Developer
 | Logo | Name   | Skill |
 |:----:|:------:|:------|
 |![image](https://skillicons.dev/icons?i=elysia)      |Elysia        |เข้าใจพื้นฐาน ได้แก่ <br>- การสร้าง REST API แบบรวดเร็ว<br>- การใช้ Middleware เพื่อจัดการ Request และ Response<br>- การกำหนด Routing และการตอบกลับแบบ JSON<br>- การเชื่อมต่อกับฐานข้อมูลหรือบริการภายนอก |
-|![image](https://skillicons.dev/icons?i=express)      |   Express     |เข้าใจพื้นฐาน ได้แก่ <br>- การสร้าง Web Server ด้วย Express<br>- การใช้ Middleware เช่น `body-parser`, `cors`<br>- การจัดการ Routing (GET, POST, PUT, DELETE)<br>- การทำงานร่วมกับ Template Engine เช่น EJS หรือ Handlebars |
+|![image](https://skillicons.dev/icons?i=express)      |   Express     |เข้าใจพื้นฐาน ได้แก่ <br>- การสร้าง Web Server ด้วย Express<br>- การใช้ Middleware เช่น `body-parser`, `cors`<br>- การจัดการ Routing (GET, POST, PUT, DELETE)|
 
 
 
@@ -105,7 +104,7 @@ Web Developer
 | Logo | Name   | Skill |
 |:----:|:------:|:------|
 |![image](https://skillicons.dev/icons?i=mongodb)      |MongoDB        |เข้าใจพื้นฐาน ได้แก่ <br>- การสร้างและจัดการฐานข้อมูลแบบ NoSQL<br>- การใช้งานคำสั่งพื้นฐาน เช่น `find`, `insert`, `update`, `delete`<br>- การเชื่อมต่อ MongoDB กับ Node.js ผ่าน Prisma |
-|![image](https://skillicons.dev/icons?i=postgres)      |PostgreSQL     |เข้าใจพื้นฐาน ได้แก่ <br>- การออกแบบและจัดการฐานข้อมูลแบบ Relational<br>- การเขียน SQL Query เช่น `SELECT`, `INSERT`, `UPDATE`, `DELETE`<br>- การสร้าง Table และการกำหนดความสัมพันธ์ (Relationship)<br>- การใช้ Index เพื่อเพิ่มประสิทธิภาพการค้นหา<br>- การเชื่อมต่อ PostgreSQL กับ Node.js ผ่าน Prisma  |
+|![image](https://skillicons.dev/icons?i=postgres)      |PostgreSQL     |เข้าใจพื้นฐาน ได้แก่ <br>- การออกแบบและจัดการฐานข้อมูลแบบ Relational<br>- การเขียน SQL Query เช่น `SELECT`, `INSERT`, `UPDATE`, `DELETE`<br>- การสร้าง Table และการกำหนดความสัมพันธ์ (Relationship)<br>- การเชื่อมต่อ PostgreSQL กับ Node.js ผ่าน Prisma  |
 
 
 
