@@ -37,7 +37,7 @@ Web Developer
 | Logo | Name   | Skill |
 |:----:|:------:|:------|
 |![image](https://skillicons.dev/icons?i=postman)      |   Postman       |  ทดสอบ API     |
-|<img src="https://jwt.io/img/pic_logo.svg" alt="JWT logo" width="50" height="50">| JWT      |         |
+|<img src="https://jwt.io/img/pic_logo.svg" alt="JWT logo" width="50" height="50">| JWT      |พัฒนา RESTful API โดยใช้ Node.js และExpress.js ร่วมกับ JWT สำหรับยืนยันตัวตน และจัดการ Middleware         |
 
 
 
@@ -47,7 +47,7 @@ Web Developer
 * ### Main Languages
 | Logo | Name   | Skill |
 |:----:|:------:|:------|
-|![image](https://skillicons.dev/icons?i=html)      |Html        |       |
+|![image](https://skillicons.dev/icons?i=html)      |Html        |เข้าใจ Syntax พื้นฐาน ได้แก่ - h1-h6<br>-div และspan<br>-Form<br>-a<br>-ul, ui<br>-table<br>-img     |
 |![image](https://skillicons.dev/icons?i=css)      |CSS        |       |
 |![image](https://skillicons.dev/icons?i=js)      |Javascript       |       |
 |![image](https://skillicons.dev/icons?i=ts)      |Typescript        |       |
@@ -81,8 +81,9 @@ Web Developer
 * ### Runtime Environment
 | Logo | Name   | Skill |
 |:----:|:------:|:------|
-|![image](https://skillicons.dev/icons?i=bun)      |  Bun      |       |
 |![image](https://skillicons.dev/icons?i=nodejs)      |NodeJs       |       |
+|![image](https://skillicons.dev/icons?i=bun)      |  Bun      |การทำงานเหมือน NodeJs แต่ภาษาการ       |
+
 
 
 
