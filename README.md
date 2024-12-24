@@ -50,8 +50,9 @@ Web Developer
 * ### Main Languages
 | Logo | Name   | Skill |
 |:----:|:------:|:------|
-|![image](https://skillicons.dev/icons?i=html)      |Html        |เข้าใจ Syntax พื้นฐาน ได้แก่ <br>- h1-h6<br>- div และ span<br>- a<br>- ul, li<br>- table<br>- img<br>- button<br>- input<br>- select     |
-|![image](https://skillicons.dev/icons?i=css)      |CSS        |เข้าใจพื้นฐาน ได้แก่ <br>- การจัดการ Selectors (เช่น class, id)<br>- Box Model<br>- Flexbox และ Grid<br>- การใช้ Media Queries สำหรับ Responsive Design<br>- การปรับแต่งสี, ขนาด, และฟอนต์ |
+
+|![image](https://skillicons.dev/icons?i=html)      |Html        |เข้าใจ Syntax พื้นฐาน ได้แก่ <br>- h1-h6<br>- div และ span<br>- a<br>- ul, li<br>- table<br>- img<br>- button<br>- input<br>- select<br>- form และการใช้ method GET, POST<br>- การใช้ attribute เช่น `class`, `id`, `href`<br>- การใช้งาน HTML semantic tags เช่น `header`, `footer`, `article`, `section` |
+|![image](https://skillicons.dev/icons?i=css)      |CSS        |เข้าใจพื้นฐาน ได้แก่ <br>- การจัดการ Selectors (เช่น class, id)<br>- Box Model<br>- Flexbox และ Grid<br>- การปรับแต่งสี, ขนาด, และฟอนต์ |
 |![image](https://skillicons.dev/icons?i=js)      |Javascript       |เข้าใจพื้นฐาน ได้แก่ <br>- DataType (String, Number, Boolean, Array, Object)<br>- Operator (Arithmetic, Comparison, Logical)<br>- if-else และ Ternary Operator<br>- Loop (for, while, do-while)<br>- Function (Declaration, Expression, Arrow Function)<br>- Scope (var, let, const) และ Hoisting<br>- Event Handling (Click, Input, Form Events)<br>- DOM Manipulation (`getElementById`, `querySelector`)<br>- JSON การทำงานกับข้อมูลแบบ Object และ Array |
 |![image](https://skillicons.dev/icons?i=ts)      |Typescript        |เขียนเหมือน JS แต่เพิ่มการตรวจสอบ Type ของตัวแปร เช่น<br>- การใช้ Interface<br>- การกำหนด Type ใน Function<br>- การจัดการ Generic Type |
 
