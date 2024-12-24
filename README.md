@@ -38,7 +38,7 @@ Web Developer
 | Logo | Name   | Skill |
 |:----:|:------:|:------|
 |![image](https://skillicons.dev/icons?i=postman)      |   Postman       |  ทดสอบ API     |
-|<img src="https://jwt.io/img/pic_logo.svg" alt="JWT logo" width="50" height="50">| JWT      |พัฒนา RESTful API โดยใช้ Node.js และ Express.js ร่วมกับ JWT สำหรับยืนยันตัวตน และจัดการ Middleware         |
+|<img src="https://jwt.io/img/pic_logo.svg" alt="JWT logo" width="50" height="50">| JWT      |พัฒนา RESTful API โดยใช้ Node.js และ Express.js ร่วมกับ JWT สำหรับยืนยันตัวตน และจัดการ Middleware        |
 |![image](https://skillicons.dev/icons?i=figma)      | Figma        |ออกแบบ UI/UX, Prototype, และสร้าง Wireframe<br>- ใช้งาน Tools เช่น Auto Layout และ Components |
 
 
