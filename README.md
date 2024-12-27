@@ -39,7 +39,7 @@ Web Developer
 |:----:|:------:|:------|
 |![image](https://skillicons.dev/icons?i=postman)      |   Postman       |  ทดสอบ API     |
 |<img src="https://jwt.io/img/pic_logo.svg" alt="JWT logo" width="50" height="50">| JWT      |พัฒนา RESTful API โดยใช้ Node.js และ Express.js ร่วมกับ JWT สำหรับยืนยันตัวตน และจัดการ Middleware        |
-|![image](https://skillicons.dev/icons?i=figma)      | Figma        |ออกแบบ UI/UX, Prototype, และสร้าง Wireframe<br>- ใช้งาน Tools เช่น Auto Layout และ Components |
+|![image](https://skillicons.dev/icons?i=figma)      | Figma        |ออกแบบ UI/UX<br>- ใช้งาน Tools เช่น Auto Layout และ Components |
 
 
 
@@ -50,10 +50,10 @@ Web Developer
 * ### Main Languages
 | Logo | Name   | Skill |
 |:----:|:------:|:------|
-|![image](https://skillicons.dev/icons?i=html)      |Html        |เข้าใจ Syntax พื้นฐาน ได้แก่ <br>- h1-h6<br>- div และ span<br>- a<br>- ul, li<br>- table<br>- img<br>- button<br>- input<br>- select<br>- form<br>- การใช้งาน HTML semantic tags เช่น `header`, `footer`, `article`, `section` |
+|![image](https://skillicons.dev/icons?i=html)      |Html        |เข้าใจ Syntax พื้นฐาน <br>- การใช้งาน HTML semantic tags เช่น `header`, `footer`, `article`, `section` |
 |![image](https://skillicons.dev/icons?i=css)      |CSS        |เข้าใจพื้นฐาน ได้แก่ <br>- การจัดการ Selectors (เช่น class, id)<br>- Box Model<br>- Flexbox และ Grid<br>- การปรับแต่งสี, ขนาด, และฟอนต์ |
-|![image](https://skillicons.dev/icons?i=js)      |Javascript       |เข้าใจพื้นฐาน ได้แก่ <br>- DataType (String, Number, Boolean, Array, Object)<br>- Operator (Arithmetic, Comparison, Logical)<br>- if-else และ Ternary Operator<br>- Loop (for, while, do-while)<br>- Function (Declaration, Expression, Arrow Function)<br>- Scope (var, let, const) และ Hoisting<br>- Event Handling (Click, Input, Form Events)<br>- DOM Manipulation (`getElementById`, `querySelector`)<br>- JSON การทำงานกับข้อมูลแบบ Object และ Array |
-|![image](https://skillicons.dev/icons?i=ts)      |Typescript        |เขียนเหมือน JS แต่เพิ่มการตรวจสอบ Type ของตัวแปร เช่น<br>- การใช้ Interface<br>- การกำหนด Type ใน Function<br>- การจัดการ Generic Type |
+|![image](https://skillicons.dev/icons?i=js)      |Javascript       |เข้าใจพื้นฐาน ได้แก่ <br>- DataType (String, Number, Boolean, Array, Object)<br>- Operator (Arithmetic, Comparison, Logical)<br>- if-else และ Ternary Operator<br>- Loop (for, while, do-while)<br>- Function (Declaration, Expression, Arrow Function)<br>- Scope (var, let, const) <br>- Event Handling (Click, Input, Form Events)<br>- DOM Manipulation (`getElementById`, `querySelector`) |
+|![image](https://skillicons.dev/icons?i=ts)      |Typescript        |เขียนเหมือน JS แต่เพิ่มการตรวจสอบ Type ของตัวแปร เช่น<br>- การใช้ Interface<br>- การกำหนด Type ใน Function และตัวแปรต่างๆ |
 
 
 
@@ -86,7 +86,7 @@ Web Developer
 * ### Runtime Environment
 | Logo | Name   | Skill |
 |:----:|:------:|:------|
-|![image](https://skillicons.dev/icons?i=nodejs)      |NodeJs       |เข้าใจพื้นฐาน ได้แก่ <br>- การสร้าง Web Server ด้วย `http` หรือ Framework เช่น Express.js<br>- การจัดการไฟล์ด้วย `fs` (File System)<br>- การใช้งาน Event Loop และ Non-blocking I/O<br>- การจัดการ Dependency ด้วย npm |
+|![image](https://skillicons.dev/icons?i=nodejs)      |NodeJs       |เข้าใจพื้นฐาน ได้แก่ <br>- การสร้าง Web Server ด้วย `http` หรือ Framework เช่น Express.js<br>- การจัดการไฟล์ด้วย `fs` (File System)<br>- Non-blocking I/O<br>- การจัดการ Dependency ด้วย npm |
 |![image](https://skillicons.dev/icons?i=bun)      |  Bun      |ทำงานคล้าย Node.js แต่มีคุณสมบัติเด่น เช่น <br>- Runtime ที่รวดเร็วกว่า Node.js<br>- Built-in Bundler และ Task Runner<br>- การจัดการ Dependency โดยไม่ต้องใช้ npm |
 
 
