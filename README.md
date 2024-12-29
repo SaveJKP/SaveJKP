@@ -28,7 +28,7 @@ Web Developer
 
 
 
-* ### Serverless Database
+* ### Database as a Service
 | Logo | Name   | Skill |
 |:----:|:------:|:------|
 |<img src="https://community.appsmith.com/sites/default/files/2024-03/neondatabase_logo.jpeg"  width="50" height="50" style="border-radius:50%">| NeonDb |เป็นการจัดการฐานข้อมูลที่อยู่บน Cloud |
@@ -63,7 +63,7 @@ Web Developer
 * ### Frontend Framework
 | Logo | Name   | Skill |
 |:----:|:------:|:------|
-|![image](https://skillicons.dev/icons?i=tailwind)      | Tailwind       | - สร้างและออกแบบ UI อย่างรวดเร็ว<br>- ใช้ Utility-first CSS<br>- ปรับแต่ง Theme และ Plugins<br>- Responsive Design |
+|![image](https://skillicons.dev/icons?i=tailwind)      | Tailwind       | - สร้างและออกแบบ UI อย่างรวดเร็ว<br>- ใช้ Utility-first CSS<br>- Responsive Design |
 |![image](https://skillicons.dev/icons?i=react)      |  React      | - พัฒนา UI ด้วย Component-based<br>- ใช้ State และ Props จัดการข้อมูล<br>- ทำงานร่วมกับ React Hooks เช่น `useState` และ `useEffect` |
 |![image](https://skillicons.dev/icons?i=nextjs)      | NextJs       | - สร้าง Web App ด้วย Server-side Rendering (SSR)<br>- ทำงานกับ Static Site Generation (SSG)<br>- จัดการ Routing แบบ Dynamic และ API Routes |
 
@@ -86,7 +86,7 @@ Web Developer
 * ### Runtime Environment
 | Logo | Name   | Skill |
 |:----:|:------:|:------|
-|![image](https://skillicons.dev/icons?i=nodejs)      |NodeJs       |เข้าใจพื้นฐาน ได้แก่ <br>- การสร้าง Web Server ด้วย `http` หรือ Framework เช่น Express.js<br>- การจัดการไฟล์ด้วย `fs` (File System)<br>- Non-blocking I/O<br>- การจัดการ Dependency ด้วย npm |
+|![image](https://skillicons.dev/icons?i=nodejs)      |NodeJs       |เข้าใจพื้นฐาน ได้แก่ <br>- การสร้าง Web Server ด้วย `http` หรือ Framework เช่น Express.js<br>- Non-blocking I/O<br>- การจัดการ Dependency ด้วย npm |
 |![image](https://skillicons.dev/icons?i=bun)      |  Bun      |ทำงานคล้าย Node.js แต่มีคุณสมบัติเด่น เช่น <br>- Runtime ที่รวดเร็วกว่า Node.js<br>- Built-in Bundler และ Task Runner<br>- การจัดการ Dependency โดยไม่ต้องใช้ npm |
 
 
@@ -120,26 +120,17 @@ Web Developer
 
 ## Project
 * ### โปรเจค POS ร้านอาหาร
-สิ่งที่ใช้ใน project<br> 
-Module 1 JavaScript<br> 
-Module 2 HTML, CSS<br>
-Module 3 NEXT.js<br>
-Module 4 TailwindCSS Framework<br>
-Module 5 Node.js <br>
-Module 6 ExpressJS Framework<br>
-Module 7 JWT Authentication<br>
-Module 8 Authorization and Middleware<br>
-Module 9 Router and Controller<br>
-Module 10 File Management<br>
-Module 11 Introduction to MongoDB and NoSQL<br>
-Module 12 Prisma ORM <br>
-Module 13 Database Programming<br>
-Module 14 Relational of Models<br>
-Module 15 Migration and Generation <br>
-Module 16 Introduction to Frontend <br>
-Module 17 Routing and Event<br>
-Module 18 Http Programming<br>
-Module 19 การ Deployment to Ubuntu Linux Server on PM2 <br>
+#### Front-end 
+languages : Html,CSS and Typescript 
+Frameworks : Tailwind and NextJs
+#### Back-end          
+languages : Javascript 
+Frameworks : Express
+Runtime Evironment : NodeJs
+Authentication : JWT 
+#### Database         
+Languages : PostgreSQL
+ORM (Object-Relational Mapping) : Prisma
 
 ## Socials
 
