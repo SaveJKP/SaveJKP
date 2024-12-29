@@ -119,17 +119,16 @@ Web Developer
  เข้าใจการออกแบบฐานข้อมูลโดยใช้ ER Diagram ได้แก่ <br>- การสร้าง Entity และกำหนดความสัมพันธ์ระหว่างตาราง (1:1, 1:M, M:M)<br>- การระบุ Attribute ของแต่ละ Entity<br>- การใช้ Primary Key และ Foreign Key ในการเชื่อมโยงข้อมูล<br>- การแปลง ER Diagram เป็น Schema สำหรับฐานข้อมูล
 
 ## Project
-* ### โปรเจค POS ร้านอาหาร
-#### Front-end 
-languages : Html,CSS and Typescript 
+### โปรเจค POS ร้านอาหาร
+### Front-end 
+languages : Html,CSS and Typescript<br> 
 Frameworks : Tailwind and NextJs
-#### Back-end          
-languages : Javascript 
-Frameworks : Express
-Runtime Evironment : NodeJs
-Authentication : JWT 
-#### Database         
-Languages : PostgreSQL
+### Back-end          
+languages : Javascript<br> 
+Frameworks : Express<br>
+Runtime Evironment : NodeJs<br>
+Authentication : JWT<br> 
+Database : PostgreSQL<br>
 ORM (Object-Relational Mapping) : Prisma
 
 ## Socials
