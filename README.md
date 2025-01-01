@@ -20,12 +20,15 @@ Web Developer
 
 
   
-* ### version Control System & VCS Hosting
+* ### Version Control System & VCS Hosting
 | Logo | Name   | Skill |
 |:----:|:------:|:------|
-|![image](https://skillicons.dev/icons?i=github)      |  GitHub      | 1. รู้วิธีการสร้าง Repository และใช้คำสั่งพื้นฐาน เช่น `git init`, `git add`, `git commit`, `git push` ผ่าน Terminal ใน VSCode<br>2. ใช้ Branch จัดการ Feature ต่าง ๆ โดยใช้คำสั่ง `git branch` และ `git merge`<br>3. จัดการกับ Merge Conflict และทำ Pull Request เพื่อทำงานร่วมกับทีม |
+|![image](https://skillicons.dev/icons?i=github)      |  GitHub      | 1. รู้วิธีการสร้าง Repository และใช้คำสั่งพื้นฐาน เช่น `git init`, `git add`, `git commit`, `git push`, `git pull`, `git clone`,`git fetch` ผ่าน Terminal ใน VSCode<br>2. ใช้ Branch จัดการ Feature ต่าง ๆ โดยใช้คำสั่ง `git branch`,`git checkout`,`git merge`<br>3. จัดการกับ Merge Conflict และทำ Pull Request เพื่อทำงานร่วมกับทีม |
 
-
+* ### Containers
+| Logo | Name   | Skill |
+|:----:|:------:|:------|
+| ![image](https://skillicons.dev/icons?i=docker)  | Docker | 1. รู้วิธีการสร้าง Dockerfile เพื่อสร้าง Images และใช้คำสั่งพื้นฐาน เช่น `docker build`,`docker pull`<br>2. สร้างและจัดการ Docker container สำหรับพัฒนาและทดสอบแอปพลิเคชันด้วยคำสั่ง `docker run`<br>3. ใช้ Docker Compose เพื่อจัดการหลาย container ที่เชื่อมโยงกันในโปรเจคเดียว<br>4. ใช้ Docker Volume สำหรับการเชื่อม data ที่อยู่ใน Container ออกมาภายนอก|
 
 
 * ### Database as a Service
